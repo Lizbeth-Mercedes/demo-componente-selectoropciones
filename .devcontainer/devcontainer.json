@@ -18,7 +18,9 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"danish-naglekar.pcf-builder",
-				"microsoft-IsvExpTools.powerplatform-vscode"
+				"microsoft-IsvExpTools.powerplatform-vscode",
+				"GitHub.copilot"
+
 			]
 		}
 	},
